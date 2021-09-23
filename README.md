@@ -1,6 +1,6 @@
 # Vision-Transformer-papers
 
-This repository contains a (non-exhaustive) overview of all the follow-up works based on the original [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) by Google.
+This repository contains a (non-exhaustive) overview of follow-up works based on the original [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) by Google.
 
 ## Distillation:
 * DeiT (Data-efficient Image Transformers): https://arxiv.org/abs/2012.12877 
