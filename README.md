@@ -1,6 +1,6 @@
 # Vision-Transformer-papers
 
-This repository contains an overview of all the follow-up works based on the original [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) by Google.
+This repository contains a (non-exhaustive) overview of all the follow-up works based on the original [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) by Google.
 
 ## Distillation:
 * DeiT (Data-efficient Image Transformers): https://arxiv.org/abs/2012.12877 
@@ -69,7 +69,7 @@ This repository contains an overview of all the follow-up works based on the ori
     * ImageRPE (relative position encodings) for Vision Transformers: https://arxiv.org/abs/2107.14222
     * What makes for Hierarchical Vision Transformer? https://arxiv.org/abs/2107.02174
 
-## Investigations of the inner workings (cf. BERTology):
+## Investigations of the inner workings (cfr. BERTology):
 
 * Are Convolutional Neural Networks or Transformers more like human vision? https://arxiv.org/abs/2105.07197
 * Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
