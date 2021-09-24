@@ -83,3 +83,4 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 * ViTGAN (GANs): https://arxiv.org/abs/2107.04589 
 * SegFormer (semantic segmentation): https://arxiv.org/abs/2105.15203
 * Feature Fusion Vision Transformer (Fine-Grained Visual Categorization): https://arxiv.org/abs/2107.02341
+* TrOCR (optical character recognition): https://arxiv.org/abs/2109.10282
