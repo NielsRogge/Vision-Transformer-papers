@@ -5,6 +5,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 ## Distillation:
 * DeiT (Data-efficient Image Transformers): https://arxiv.org/abs/2012.12877 
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation: https://arxiv.org/abs/2107.01378
+* NViT https://arxiv.org/abs/2110.04869
 
 ## New pre-training objectives:
 - self-supervised:
@@ -15,6 +16,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 - supervised:
     * Token Labeling for Better Training Vision Transformers: https://arxiv.org/abs/2104.10858 
     * Vision Transformers with Patch Diversification: https://arxiv.org/abs/2104.12753
+    * Token Pooling in Vision Transformers: https://arxiv.org/abs/2110.03860
 
 ## New pre-training tricks, techniques:
 * Scaling Vision Transformers: https://arxiv.org/abs/2106.04560
@@ -68,6 +70,8 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
     * PSViT (Better Vision Transformer via Token Pooling and Attention Sharing): https://t.co/OOnONItfnX?amp=1
     * ImageRPE (relative position encodings) for Vision Transformers: https://arxiv.org/abs/2107.14222
     * What makes for Hierarchical Vision Transformer? https://arxiv.org/abs/2107.02174
+    * Multi-Scale Vision Longformer https://arxiv.org/abs/2103.15358
+    * CSWin Transformer https://arxiv.org/abs/2107.00652
 
 ## Investigations of the inner workings (cfr. BERTology):
 
