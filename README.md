@@ -9,10 +9,11 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 
 ## New pre-training objectives:
 - self-supervised:
-    * BEiT (BERT Pre-Training of Image Transformers): https://arxiv.org/abs/2106.08254
     * DINO (Emerging Properties in Self-Supervised Vision Transformers): https://arxiv.org/abs/2104.14294 
     * MoBY (Self-Supervised Learning with Swin Transformers): https://arxiv.org/abs/2105.04553
     * EsViT (Efficient self-supervised Vision Transformers): https://arxiv.org/abs/2106.09785
+    * BEiT (BERT Pre-Training of Image Transformers): https://arxiv.org/abs/2106.08254
+    * MAE (Masked Autoencoders Are Scalable Vision Learners): https://arxiv.org/abs/2111.06377
 - supervised:
     * Token Labeling for Better Training Vision Transformers: https://arxiv.org/abs/2104.10858 
     * Vision Transformers with Patch Diversification: https://arxiv.org/abs/2104.12753
@@ -24,6 +25,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 * Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations: https://arxiv.org/abs/2108.05887
 * How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers: https://arxiv.org/abs/2106.10270
 * When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations (SAM optimizer): https://arxiv.org/abs/2106.01548
+* V-MoE (Scaling Vision with Sparse Mixture of Experts): https://arxiv.org/abs/2106.05974
 
 ## Architectural changes:
 - Combining convolution with self-attention:
@@ -77,9 +79,11 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 
 * Are Convolutional Neural Networks or Transformers more like human vision? https://arxiv.org/abs/2105.07197
 * Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
-* What makes for Hierarchical Vision Transformer? (Survey on Swin + ShuffleTransformer): : https://arxiv.org/abs/2107.02174
+* What makes for Hierarchical Vision Transformer? (Survey on Swin + ShuffleTransformer): https://arxiv.org/abs/2107.02174
 * Intriguing Properties of Vision Transformers: https://arxiv.org/abs/2105.10497
 * Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers: https://arxiv.org/abs/2106.13122
+* Are Transformers More Robust Than CNNs? https://arxiv.org/abs/2111.05464v1
+* 
 
 ## Applying ViT to other domains besides image classification:
 
