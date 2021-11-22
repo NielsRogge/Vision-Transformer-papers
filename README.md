@@ -5,7 +5,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 ## Distillation:
 * DeiT (Data-efficient Image Transformers): https://arxiv.org/abs/2012.12877 
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation: https://arxiv.org/abs/2107.01378
-* NViT https://arxiv.org/abs/2110.04869
+* NViT (Vision Transformer Compression and Parameter Redistribution): https://arxiv.org/abs/2110.04869
 
 ## New pre-training objectives:
 - self-supervised:
@@ -14,6 +14,8 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
     * EsViT (Efficient self-supervised Vision Transformers): https://arxiv.org/abs/2106.09785
     * BEiT (BERT Pre-Training of Image Transformers): https://arxiv.org/abs/2106.08254
     * MAE (Masked Autoencoders Are Scalable Vision Learners): https://arxiv.org/abs/2111.06377
+    * SiT (Self-supervised vIsion Transformer): https://arxiv.org/abs/2104.03602
+    * SimMIM (A Simple Framework for Masked Image Modeling): https://arxiv.org/abs/2111.09886
 - supervised:
     * Token Labeling for Better Training Vision Transformers: https://arxiv.org/abs/2104.10858 
     * Vision Transformers with Patch Diversification: https://arxiv.org/abs/2104.12753
