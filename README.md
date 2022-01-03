@@ -6,6 +6,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 * DeiT (Data-efficient Image Transformers): https://arxiv.org/abs/2012.12877 
 * Efficient Vision Transformers via Fine-Grained Manifold Distillation: https://arxiv.org/abs/2107.01378
 * NViT (Vision Transformer Compression and Parameter Redistribution): https://arxiv.org/abs/2110.04869
+* SiT (Self-slimmed Vision Transformer): https://arxiv.org/abs/2111.12624
 
 ## New pre-training objectives:
 - self-supervised:
@@ -39,6 +40,7 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
     * Visformer (The Vision-friendly Transformer): https://arxiv.org/abs/2104.12533
     * CCT (Escaping the Big Data Paradigm with Compact Transformers): https://arxiv.org/abs/2104.05704 
     * Refiner (Refining Self-attention for Vision Transformers): https://arxiv.org/abs/2106.03714 
+    * LVT (Lite Vision Transformer with Enhanced Self-Attention): https://arxiv.org/abs/2112.10809
 - Others:
     * PiT (Rethinking Spatial Dimensions of Vision Transformers): https://arxiv.org/abs/2103.16302
     * xCiT (Cross-Covariance Image Transformer): https://arxiv.org/abs/2106.09681 
@@ -74,8 +76,14 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
     * PSViT (Better Vision Transformer via Token Pooling and Attention Sharing): https://t.co/OOnONItfnX?amp=1
     * ImageRPE (relative position encodings) for Vision Transformers: https://arxiv.org/abs/2107.14222
     * What makes for Hierarchical Vision Transformer? https://arxiv.org/abs/2107.02174
-    * Multi-Scale Vision Longformer https://arxiv.org/abs/2103.15358
-    * CSWin Transformer https://arxiv.org/abs/2107.00652
+    * Multi-Scale Vision Longformer: https://arxiv.org/abs/2103.15358
+    * CSWin Transformer: https://arxiv.org/abs/2107.00652
+    * MetaFormer is Actually What You Need for Vision: https://arxiv.org/abs/2111.11418
+    * Stochastic Layers in Vision Transformers: https://arxiv.org/abs/2112.15111
+    * ViR: the Vision Reservoir: https://arxiv.org/abs/2112.13545
+    * Blending Anti-Aliasing into Vision Transformer: https://arxiv.org/abs/2110.15156
+    * ELSA: Enhanced Local Self-Attention for Vision Transformer: https://arxiv.org/abs/2112.12786
+    * Swin Transformer V2: Scaling Up Capacity and Resolution: https://arxiv.org/abs/2111.09883
 
 ## Investigations of the inner workings (cfr. BERTology):
 
@@ -85,7 +93,6 @@ This repository contains a (non-exhaustive) overview of follow-up works based on
 * Intriguing Properties of Vision Transformers: https://arxiv.org/abs/2105.10497
 * Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers: https://arxiv.org/abs/2106.13122
 * Are Transformers More Robust Than CNNs? https://arxiv.org/abs/2111.05464v1
-* 
 
 ## Applying ViT to other domains besides image classification:
 
